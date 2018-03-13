@@ -1,5 +1,5 @@
 # hello-world
-The first use of GitHub
+Use of GitHub
 
 Hello, I am a student.
 ### ok
